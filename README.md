@@ -16,15 +16,14 @@ I enjoy working with databases and building scalable, real-time solutions that m
 - 🌱 Continuously learning and exploring new technologies to enhance my skill set.  
 - 🤝 Open to collaborating on innovative projects and contributing to open-source initiatives.  
 
-
 ### 🔥 Featured Projects:
 - [**Feedback Management System**](https://students.sitare.org/)  
   Built and deployed for my university, enabling real-time feedback and performance optimization.  
   Technologies: Flask, PostgreSQL, JavaScript
   
 
-  ### 🌟 Connect With Me:
-- [LinkedIn]()   
+### 🌟 Connect With Me:
+- [LinkedIn](https://www.linkedin.com/in/puneet-kumar-kpuneet474)   
 
 
 
