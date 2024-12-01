@@ -17,13 +17,14 @@ I enjoy working with databases and building scalable, real-time solutions that m
 - 🤝 Open to collaborating on innovative projects and contributing to open-source initiatives.  
 
 
-###  Featured Projects:
-- [**Feedback Management System**](# https://students.sitare.org/)  
+### 🔥 Featured Projects:
+- [**Feedback Management System**](https://students.sitare.org/)  
   Built and deployed for my university, enabling real-time feedback and performance optimization.  
-  Technologies: Flask, PostgreSQL, JavaScript  
+  Technologies: Flask, PostgreSQL, JavaScript
+  
 
   ### 🌟 Connect With Me:
-- [LinkedIn](#)   
+- [LinkedIn]()   
 
 
 
