@@ -20,7 +20,8 @@ I enjoy working with databases and building scalable, real-time solutions that m
 - [**Feedback Management System**](https://students.sitare.org/)  
   Built and deployed for my university, enabling real-time feedback and performance optimization.  
   Technologies: Flask, PostgreSQL, JavaScript
-  
+### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuneetKumar747&show_icons=true&theme=radical)
 
 ### 🌟 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/puneet-kumar-kpuneet474)   
